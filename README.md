@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Bisht
 
-<!--
-**adi-bishtt/adi-bishtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer focused on building clean, simple and functional digital experiences.  
+Currently learning and improving my skills in modern web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages & Tools:**  
+HTML · CSS · JavaScript
+
+---
+
+## 🎯 Goals for 2026
+- Complete full modern web development  
+- Build real-world projects to strengthen my skills  
+- Keep expanding my tech stack with new tools, frameworks and technologies  
+
+---
+
+## 📫 Contact
+**Email:** adpycloud@gmail.com  
+
