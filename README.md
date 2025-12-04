@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Bisht 👋
 
-17-year-old web developer in the making. Yesh, I can be lazy sometimes, but I’m ambitious and always learning. Currently diving deep into **JavaScript**, with **React** coming soon!  
+17-year-old web developer in the making. Yeah, I can be lazy sometimes, but I’m ambitious and always learning. Currently diving deep into **JavaScript**, with **React** coming soon!  
 
 ---
 
@@ -18,6 +18,7 @@
 ## 🎯 Hobbies
 - Coding & experimenting with web dev  
 - Chess (for fun & strategy)  
+- Watching anime  
 - Random creative experiments when bored  
 
 ---
