@@ -17,7 +17,7 @@
 
 ## 🎯 Hobbies
 - Coding & experimenting with web dev  
-- Chess (for fun & strategy)  
+- Chess 
 - Watching anime  
 - Random creative experiments when bored  
 
