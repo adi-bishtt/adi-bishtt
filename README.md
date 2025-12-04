@@ -1,23 +1,26 @@
-# 👋 Hi, I'm Aditya Bisht
+# Hi there, I'm Aditya Bisht 👋
 
-I'm a web developer focused on building clean, simple and functional digital experiences.  
-Currently learning and improving my skills in modern web development.
-
----
-
-## 🛠️ Tech Stack
-**Languages & Tools:**  
-HTML · CSS · JavaScript
+17-year-old web developer in the making. Yesh, I can be lazy sometimes, but I’m ambitious and always learning. Currently diving deep into **JavaScript**, with **React** coming soon!  
 
 ---
 
-## 🎯 Goals for 2026
-- Complete full modern web development  
-- Build real-world projects to strengthen my skills  
-- Keep expanding my tech stack with new tools, frameworks and technologies  
+## 💻 Skills
+**Currently learning:**  
+- HTML, CSS  
+- JavaScript (actively practicing & building small projects)  
+
+**Next up:**  
+- React  
+- APIs & more advanced JS  
 
 ---
 
-## 📫 Contact
-**Email:** adpycloud@gmail.com  
+## 🎯 Hobbies
+- Coding & experimenting with web dev  
+- Chess (for fun & strategy)  
+- Random creative experiments when bored  
 
+---
+
+## 📫 Connect with me
+Check out my repos to follow along as I learn, build, and level up my skills!
