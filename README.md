@@ -6,7 +6,7 @@
 
 ## 💻 Skills
 **Currently learning:**  
-- HTML, CSS  
+- HTML, CSS  (Have knowledge but still practicing)
 - JavaScript (actively practicing & building small projects)  
 
 **Next up:**  
