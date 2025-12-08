@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Bisht 👋
+# Hi , I'm Aditya Bisht 👋
 
 17-year-old web developer in the making. Yeah, I can be lazy sometimes, but I’m ambitious and always learning. Currently diving deep into **JavaScript**, with **React** coming soon!  
 
