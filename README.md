@@ -1,27 +1,31 @@
-# Hi , I'm Aditya Bisht 👋
+<div align="center">
 
-17-year-old web developer in the making. Yeah, I can be lazy sometimes, but I’m ambitious and always learning. Currently diving deep into **JavaScript**, with **React** coming soon!  
+# Hi, I'm Adi 👋
+### Java Developer in Training | Building Robust Backend Systems 🇵🇱
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Java%20%26%20Web%20Architecture&fontSize=40&animation=fadeIn" width="100%"/>
 
-## 💻 Skills
-**Currently learning:**  
-- HTML, CSS  (Have knowledge but still practicing)
-- JavaScript (actively practicing & building small projects)  
-
-**Next up:**  
-- React  
-- APIs & more advanced JS  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5de4c7&width=435&lines=Learning+Java+for+Enterprise;HTML+%26+CSS+Aesthetics;Targeting+Poland+IT+Market)](https://git.io/typing-svg)
 
 ---
 
-## 🎯 Hobbies
-- Coding & experimenting with web dev  
-- Chess 
-- Watching anime  
-- Random creative experiments when bored  
+### 🚀 Focus Areas
+- ☕ **Backend:** Deep diving into **Java Core** (OOP, Collections, Exceptions).
+- 🌐 **Frontend:** Crafting clean UIs with **HTML5 & CSS3**.
+- 🏗️ **The Goal:** Bridging the gap between stable Java logic and modern web aesthetics.
+
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,idea,vscode&theme=dark)](https://skillicons.dev)
+
+### 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adi_bishtt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="adi_bishtt stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi_bishtt&layout=compact&theme=tokyonight&hide_border=true" alt="adi_bishtt languages" />
+</p>
 
 ---
 
-## 📫 Connect with me
-Check out my repos to follow along as I learn, build, and level up my skills!
+*“Logic will get you from A to B. Imagination (and Java) will take you everywhere.”*
+
+</div>
