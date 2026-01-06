@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Adi 👋
-### Java Developer in Training | Building Robust Backend Systems 🇵🇱
+### Java Developer in Training | Building Robust Backend Systems
 
 ### 🚀 Focus Areas
 - ☕ **Backend:** Deep diving into **Java Core** (OOP, Collections, Exceptions).
