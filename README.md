@@ -2,7 +2,7 @@
 
 # Welcome to Frontend Boi 👋
 
-### *I don't trust CSS because it isn't 'Strongly Typed.' Let's go back to Java where things actually make sense.*
+### *I don't trust CSS because it isn't 'Strongly Typed.Let's go back to Java where things actually make sense.*
 
 </div>
 
