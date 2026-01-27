@@ -1,41 +1,44 @@
 👋 Welcome to Frontend Boi.
-Transitioning from UI layouts to robust JVM Architectures
-
 "I don't trust CSS because it isn't 'Strongly Typed.' Let's go back to Java where things actually make sense."
 
-I am a Developer currently pivoting from Frontend technologies to Backend Engineering. My goal is to leverage my understanding of user-centric design while building high-performance, type-safe enterprise systems using the Java ecosystem.
+I am a 17-year-old Emerging Backend Developer based in India, currently building a high-level technical foundation to enter the Polish IT market by 18. I am moving away from the "boredom" of CSS layouts to embrace the logic, structure, and type-safety of the Java ecosystem.
 
-🛠️ Current Tech Stack & Competencies
+🛠️ Tech Stack
 
-Core Skills (Frontend & Foundation)
+Current Proficiency
 
-Developing Expertise (Backend & Tools)
+<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
-🚀 2026 Professional Roadmap
+The Workbench
 
-I am currently following a structured path to becoming an Industry-Ready Backend Developer. My focus is on the Spring Boot ecosystem, which is the backbone of the Polish IT sector (Finance, E-commerce, and Enterprise).
+<p align="left"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
 
-Currently Mastering:
+Future Stack (Learning in Progress)
 
-Java Core & DSA: Deep-diving into Multithreading, Streams API, and Collections. Solving daily problems on LeetCode to sharpen algorithmic thinking.
+<p align="left"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /> </p>
 
-Persistent Storage: Learning PostgreSQL and relational database design.
+🏗️ Dream Project: Volleyball Team Management
 
-Next Milestones:
+I am architecting a management system designed to handle real-world sports logic.
 
-Spring Boot Framework: Building RESTful APIs with Dependency Injection and IoC.
+Core: Java & Spring Boot REST APIs.
 
-JPA & Hibernate: Mastering Object-Relational Mapping (ORM) for efficient database communication.
+Security: Implementing JWT for secure user sessions.
 
-Security & Auth: Implementing stateless authentication using JWT and Spring Security.
+Data: Using PostgreSQL and JPA to manage players, stats, and match schedules.
 
-DevOps Basics: Exploring Docker containerization for Java applications.
+🚀 The 2026 Roadmap
 
-📊 Problem Solving & GitHub Activity
+[ ] Complete Java Core: Mastering the fundamentals before moving to advanced frameworks.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adi-bishtt&show_icons=true&theme=tokyonight&hide_border=true" alt="adi-bishtt stats" /> </p>
+[ ] The LeetCode Grind: Commencing DSA problem-solving immediately following Core Java completion.
 
-Metric	Status
-Primary IDE	IntelliJ IDEA (The only way to Java)
-Build Tool	Maven
-LeetCode Profile	adi-bishtt
+[ ] Polish Market Entry: Building a portfolio of enterprise-ready projects targeting hubs like Warsaw and Kraków.
+
+📊 Stats
+
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dadi-bishtt%26show_icons%3Dtrue%26theme%3Dnord%26hide_border%3Dtrue" alt="adi-bishtt stats" /> </p>
+
+📫 Connect with me
+
+📍 Location: India (Aiming for Poland 🇵🇱)
