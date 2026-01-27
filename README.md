@@ -1,44 +1,39 @@
-👋 Welcome to Frontend Boi.
-"I don't trust CSS because it isn't 'Strongly Typed.' Let's go back to Java where things actually make sense."
+# Welcome to Frontend Boi 👋
 
-I am a 17-year-old Emerging Backend Developer based in India, currently building a high-level technical foundation to enter the Polish IT market by 18. I am moving away from the "boredom" of CSS layouts to embrace the logic, structure, and type-safety of the Java ecosystem.
+> I don't trust CSS because it isn't 'Strongly Typed.' Let's go back to Java where things actually make sense.
 
-🛠️ Tech Stack
+## About Me
 
-Current Proficiency
+17 y/o self-taught developer from India 🇮🇳, building my way to Poland 🇵🇱  
+Turning 18 soon and ready to land my first dev role.
 
-<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
+## Tech Stack
 
-The Workbench
+**Currently Learning**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
+**Next Up**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
+</p>
 
-Future Stack (Learning in Progress)
+## GitHub Stats
 
-<p align="left"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /> </p>
+![adi-bishtt's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-bishtt&show_icons=true&theme=dark&hide_border=true)
 
-🏗️ Dream Project: Volleyball Team Management
+## Let's Connect
 
-I am architecting a management system designed to handle real-world sports logic.
+Open to opportunities and collaborations!  
+📫 Reach me through GitHub or drop a message.
 
-Core: Java & Spring Boot REST APIs.
+---
 
-Security: Implementing JWT for secure user sessions.
-
-Data: Using PostgreSQL and JPA to manage players, stats, and match schedules.
-
-🚀 The 2026 Roadmap
-
-[ ] Complete Java Core: Mastering the fundamentals before moving to advanced frameworks.
-
-[ ] The LeetCode Grind: Commencing DSA problem-solving immediately following Core Java completion.
-
-[ ] Polish Market Entry: Building a portfolio of enterprise-ready projects targeting hubs like Warsaw and Kraków.
-
-📊 Stats
-
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dadi-bishtt%26show_icons%3Dtrue%26theme%3Dnord%26hide_border%3Dtrue" alt="adi-bishtt stats" /> </p>
-
-📫 Connect with me
-
-📍 Location: India (Aiming for Poland 🇵🇱)
+*Building one commit at a time* ⚡
