@@ -17,7 +17,6 @@ public class Developer {
     String location = "India 🇮🇳";
     String dreamDestination = "Poland 🇵🇱";
     String status = "Self-taught & Job-hunting (when I turn 18)";
-    boolean lovesStronglyTypedLanguages = true;
     
     public String getCurrentFocus() {
         return "Mastering Java & Building Backend Skills";
@@ -76,19 +75,9 @@ I'm a self-taught developer who started coding because I wanted to build things 
 
 ---
 
-## 🌱 What I'm Working On
-
-- Building backend projects to strengthen my Java skills
-- Learning design patterns and best practices
-- Preparing for technical interviews
-- Creating a portfolio of projects to showcase
-
----
-
 ## 💼 Why Poland?
 
-I'm passionate about working in Europe's tech scene, and Poland has an amazing developer community. I'm learning, building, and preparing to make that dream a reality soon!
-
+"I’m choosing Poland for its skill-first tech scene that values my Java chops over a degree, and the streamlined visa process makes it a top-tier move. Plus, as a massive volleyball fan, living in a country where the sport is basically a religion is the ultimate work-life balance win. It’s the perfect place to level up my code and my game at the same time."
 ---
 
 ## 📫 Let's Connect!
@@ -100,13 +89,3 @@ I'm always open to collaborating on projects, discussing tech, or just connectin
 - 📧 Reach out through GitHub discussions or issues!
 
 ---
-
-<div align="center">
-
-### *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-**Thanks for stopping by!** ⚡
-
-![Visitor Count](https://profile-counter.glitch.me/adi-bishtt/count.svg)
-
-</div>
