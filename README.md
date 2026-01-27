@@ -48,7 +48,7 @@ I'm a self-taught developer who started coding because I wanted to build things 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/>
 </p>
 
-**Roadmap:** Spring Boot (JPA, JWT) → PostgreSQL → Maven → Building full-stack projects
+**Roadmap:** Spring Boot (JPA, JWT) → PostgreSQL → Maven → Building backend projects
 
 ---
 
@@ -63,11 +63,6 @@ I'm a self-taught developer who started coding because I wanted to build things 
 
 ---
 
-## 💼 Why Poland?
-
-<sub>I’m choosing Poland for its skill-first tech scene that values my Java chops over a degree, and the streamlined visa process makes it a top-tier move. Plus, as a massive volleyball fan, living in a country where the sport is basically a religion is the ultimate work-life balance win. It’s the perfect place to level up my code and my game at the same time.</sub>
----
-
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on projects, discussing tech, or just connecting with fellow developers.
@@ -75,5 +70,3 @@ I'm always open to collaborating on projects, discussing tech, or just connectin
 - 💬 Ask me about Java, backend development, or my self-taught journey
 - 🤝 Open to mentorship, collaboration, and job opportunities
 - 📧 Reach out through GitHub discussions or issues!
-
----
