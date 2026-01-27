@@ -12,14 +12,12 @@
 
 ```java
 public class Developer {
-    String name = "Aditya";
-    int age = 17;
-    String location = "India 🇮🇳";
-    String dreamDestination = "Poland 🇵🇱";
-    String status = "Self-taught & Job-hunting (when I turn 18)";
+    private final String name = "Aditya";
+    private final String location = "India 🇮🇳";
+    private String goal = "Java Dev in Poland 🇵🇱"; // Visa-friendly & Volleyball-ready
     
-    public String getCurrentFocus() {
-        return "Mastering Java & Building Backend Skills";
+    public String getStatus() {
+        return "Self-taught & building backend mastery until I turn 18.";
     }
 }
 ```
