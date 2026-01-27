@@ -11,15 +11,14 @@
 ## 🚀 About Me
 
 ```java
-public class Developer {
-    private final String name = "Aditya";
-    int age = 17; 
-    boolean isHirable = (age >= 18); // Calculating the countdown to Poland 🇵🇱
-    private final String location = "India 🇮🇳";
-    private String goal = "Java Dev in Poland 🇵🇱"; // Visa-friendly & Volleyball-ready
-    
-    public String getStatus() {
-        return "Self-taught & building backend mastery until I turn 18.";
+public class FuturePolishDev {
+    private final int currentAge = 17;
+    private final String target = "Poland 🇵🇱"; // No degree? No problem.
+    private final String hobby = "Volleyball 🏐";
+
+    public String getStrategy() {
+        return "Grinding Java until 18 to leverage Poland's skill-based visas " +
+               "and elite volleyball scene.";
     }
 }
 ```
