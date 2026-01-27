@@ -13,6 +13,8 @@
 ```java
 public class Developer {
     private final String name = "Aditya";
+    int age = 17; 
+    boolean isHirable = (age >= 18); // Calculating the countdown to Poland 🇵🇱
     private final String location = "India 🇮🇳";
     private String goal = "Java Dev in Poland 🇵🇱"; // Visa-friendly & Volleyball-ready
     
