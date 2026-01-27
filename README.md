@@ -49,18 +49,6 @@ I'm a self-taught developer who started coding because I wanted to build things 
 </p>
 
 **Roadmap:** Spring Boot (JPA, JWT) → PostgreSQL → Maven → Building backend projects
-
----
-
-## 🎯 Current Goals
-
-- ✅ Master Java fundamentals
-- 🔄 Build projects with Spring Boot
-- 🔄 Learn database management with PostgreSQL
-- 📝 Contribute to open source
-- 🎯 Land my first dev job in Poland when I turn 18
-- 💡 Connect with developers worldwide
-
 ---
 
 ## 📫 Let's Connect!
