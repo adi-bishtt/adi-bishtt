@@ -1,20 +1,41 @@
-<div align="center">
+👋 Welcome to Frontend Boi.
+Transitioning from UI layouts to robust JVM Architectures
 
-# Hi, I'm Adi 👋
-### Java Developer in Training | Building Robust Backend Systems
+"I don't trust CSS because it isn't 'Strongly Typed.' Let's go back to Java where things actually make sense."
 
-### 🚀 Focus Areas
-- ☕ **Backend:** Deep diving into **Java Core** (OOP, Collections, Exceptions).
-- 🌐 **Frontend:** Crafting clean UIs with **HTML5 & CSS3**.
-- 🏗️ **The Goal:** Bridging the gap between stable Java logic and modern web aesthetics.
+I am a Developer currently pivoting from Frontend technologies to Backend Engineering. My goal is to leverage my understanding of user-centric design while building high-performance, type-safe enterprise systems using the Java ecosystem.
 
-### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,idea,vscode&theme=dark)](https://skillicons.dev)
+🛠️ Current Tech Stack & Competencies
 
+Core Skills (Frontend & Foundation)
 
+Developing Expertise (Backend & Tools)
 
----
+🚀 2026 Professional Roadmap
 
-*“Logic will get you from A to B. Imagination (and Java) will take you everywhere.”*
+I am currently following a structured path to becoming an Industry-Ready Backend Developer. My focus is on the Spring Boot ecosystem, which is the backbone of the Polish IT sector (Finance, E-commerce, and Enterprise).
 
-</div>
+Currently Mastering:
+
+Java Core & DSA: Deep-diving into Multithreading, Streams API, and Collections. Solving daily problems on LeetCode to sharpen algorithmic thinking.
+
+Persistent Storage: Learning PostgreSQL and relational database design.
+
+Next Milestones:
+
+Spring Boot Framework: Building RESTful APIs with Dependency Injection and IoC.
+
+JPA & Hibernate: Mastering Object-Relational Mapping (ORM) for efficient database communication.
+
+Security & Auth: Implementing stateless authentication using JWT and Spring Security.
+
+DevOps Basics: Exploring Docker containerization for Java applications.
+
+📊 Problem Solving & GitHub Activity
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adi-bishtt&show_icons=true&theme=tokyonight&hide_border=true" alt="adi-bishtt stats" /> </p>
+
+Metric	Status
+Primary IDE	IntelliJ IDEA (The only way to Java)
+Build Tool	Maven
+LeetCode Profile	adi-bishtt
