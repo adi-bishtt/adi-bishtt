@@ -47,7 +47,7 @@ I'm a self-taught developer who started coding because I wanted to build things 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/>
 </p>
 
-**Roadmap:** Spring Boot (JPA, JWT) → PostgreSQL → Maven → Building backend projects
+**Roadmap:** Spring Boot (JPA, JWT) → PostgreSQL → Maven → Building Backend projects
 ---
 
 ## 📫 Let's Connect!
