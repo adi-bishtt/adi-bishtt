@@ -56,4 +56,3 @@ I'm always open to collaborating on projects, discussing tech, or just connectin
 
 - 💬 Ask me about Java, backend development, or my self-taught journey
 - 🤝 Open to mentorship, collaboration, and job opportunities
-- 📧 Reach out through GitHub discussions or issues!
