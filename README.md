@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Frontend Boi 🤟🏼
+# Welcome to Frontend Boi 
 
 ### *I don't trust CSS because it isn't Strongly typed.Let's go back to Java where things actually make sense.*
 
