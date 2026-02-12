@@ -17,8 +17,7 @@ public class FuturePolishDev {
     private final String hobby = "Volleyball 🏐";
 
     public String getStrategy() {
-        return "Grinding Java until 18 to leverage Poland's skill-based visas " +
-               "and elite volleyball scene.";
+        return "Grinding Java until 18 to leverage Poland's skill-based visas ";
     }
 }
 ```
