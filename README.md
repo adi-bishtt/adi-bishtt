@@ -14,7 +14,7 @@
 public class FuturePolishDev {
     private final int currentAge = 17;
     private final String target = "Poland 🇵🇱"; // No degree? No problem.
-    private final String hobby = "Volleyball 🏐";
+    private final String hobby = "Volleyball & Chess ♟️🏐";
 
     public String getStrategy() {
         return "Grinding Java until 18 to leverage Poland's skill-based visas ";
