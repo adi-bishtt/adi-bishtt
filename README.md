@@ -1,56 +1,28 @@
-<div align="center">
+# Hey, I'm Aditya 👋
 
-# Welcome to Frontend Boi 
+Self taught Java backend developer from Uttarakhand, India.
 
-### *I don't trust CSS because it isn't Strongly typed . Let's go back to Java where things actually make sense.*
+## What I'm Building
 
-</div>
+- 🃏 **ONU** — Multiplayer card game (Java, Spring Boot, PostgreSQL, WebSockets)
+- 📚 **Mathematics & Physics** — Self directed study for fun
+- 🧮 **DSA** — Practice in Java
 
----
+## Tech Stack
 
-## 🚀 About Me
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-```java
-public class FutureBackendDev {
-    private final int currentAge = 17;
-    private final String hobby = "Volleyball & Chess ♟️🏐";
+## Currently
 
-    public String getStrategy() {
-        return "Grinding Java until 18";
-    }
-}
-```
+- 🔨 Building ONU — multiplayer card game
+- 📐 Studying calculus as a hobby
+- 🎯 Targeting backend developer role in Europe
 
-I'm a self-taught developer who started coding because I wanted to build things that matter. Currently diving deep into Java and preparing for my first professional role. I believe in strongly typed languages, clean code, and the power of persistence.
+## Fun Fact
 
-**Fun fact:** Started with frontend, realized I love backend more. CSS and I have a complicated relationship 😅
-
----
-
-## 💻 Tech Stack
-
-### **Currently Mastering**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-</p>
-
-### **Learning Next** 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/>
-</p>
-
-**Roadmap:** Spring Boot (JPA, JWT) → PostgreSQL → Maven → Building Backend projects
----
-
-## 📫 Let's Connect!
-
-I'm always open to collaborating on projects, discussing tech, or just connecting with fellow developers.
-
-- 💬 Ask me about Java, backend development, or my self-taught journey
-- 🤝 Open to mentorship, collaboration, and job opportunities
+I've been fascinated by space since class 5.
+The dream was astrophysics — then I checked the fees 
+Now I code for a living and study physics for fun.
