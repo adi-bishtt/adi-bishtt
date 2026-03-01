@@ -24,5 +24,5 @@ Self taught Java backend developer from Uttarakhand, India.
 ## Fun Fact
 
 I've been fascinated by space since class 5.
-The dream was astrophysics — then I checked the fees 
+The dream was astrophysics — then I checked the fees . 
 Now I code for a living and study physics for fun.
