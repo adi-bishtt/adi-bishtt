@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 ```java
-public class FuturePolishDev {
+public class FutureBackendDev {
     private final int currentAge = 17;
     private final String hobby = "Volleyball & Chess ♟️🏐";
 
