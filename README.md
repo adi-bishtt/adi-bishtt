@@ -1,6 +1,5 @@
+![](https://img.shields.io/badge/Java%20Backend%20Developer-Self%20Taught-brightgreen?style=for-the-badge)
 # Hey, I'm Aditya 👋
-
-Self taught Java backend developer from Uttarakhand, India.
 
 ## What I'm Building
 
